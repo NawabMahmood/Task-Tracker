@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Buy Groceries",
+            "status": "in-progress",
+            "createdAt": "2025-01-24T03:23:30.595501",
+            "updatedAt": "2025-01-24T03:29:12.369687"
+        },
+        {
+            "id": 2,
+            "description": "chat with team",
+            "status": "todo",
+            "createdAt": "2025-01-24T03:25:44.076221",
+            "updatedAt": "2025-01-24T03:33:10.676060"
+        },
+        {
+            "id": 3,
+            "description": "Do my morning run",
+            "status": "todo",
+            "createdAt": "2025-01-24T03:30:23.430247",
+            "updatedAt": "2025-01-24T03:30:23.430253"
+        },
+        {
+            "id": 4,
+            "description": "Make my waffles",
+            "status": "done",
+            "createdAt": "2025-01-24T03:30:37.731597",
+            "updatedAt": "2025-01-24T03:32:06.711725"
+        },
+        {
+            "id": 5,
+            "description": "Play with my kids",
+            "status": "todo",
+            "createdAt": "2025-01-24T03:31:01.996541",
+            "updatedAt": "2025-01-24T03:31:01.996545"
+        }
+    ]
+}
